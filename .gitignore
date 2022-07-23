@@ -1,0 +1,13 @@
+# gitignore
+
+# ignore gz files
+*.gz
+
+# ignore ini files
+*.ini
+
+# ignore latex compiling process output files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
